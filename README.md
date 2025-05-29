@@ -22,7 +22,7 @@ Consider submitting an RFC for:
 
 ## RFC Process
 
-1. **Discuss the idea** in [GitHub Discussions](https://github.com/your-org/ld-agent-spec/discussions) first
+1. **Discuss the idea** in [GitHub Discussions](https://github.com/ld-agent/discussions) first
 2. **Fork this repository** and create your RFC in `rfcs/0000-your-feature.md`
 3. **Submit a pull request** with your RFC
 4. **Community discussion** happens in the PR comments

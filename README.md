@@ -92,4 +92,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Have a big idea for ld-agent?** Start the discussion in [GitHub Discussions](https://github.com/your-org/ld-agent-spec/discussions) first! 
+**Have a big idea for ld-agent?** Start the discussion in [GitHub Discussions](https://github.com/ld-agent/discussions) first! 
